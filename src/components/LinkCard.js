@@ -5,7 +5,7 @@ import styled from 'styled-components';
 const LinkCard = props => {
     return (
         <div>
-            HELLO!!
+            "HELLO"
         </div>
     );
 };
