@@ -1,18 +1,17 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
-import LinkCard from './LinkCard';
 
-const LinkCards = props => {
+const LinkCard = props => {
     return (
         <div>
-            <LinkCard></LinkCard>
+            HELLO!!
         </div>
     );
 };
 
-LinkCards.propTypes = {
+LinkCard.propTypes = {
     
 };
 
-export default LinkCards;
+export default LinkCard;
